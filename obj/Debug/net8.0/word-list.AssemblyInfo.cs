@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("word-list")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0c12986d0b192b2675d409caa9a6add1ee8465f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea5e5b65fb4c62574ae73b633e78d1749627e5c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("word-list")]
 [assembly: System.Reflection.AssemblyTitleAttribute("word-list")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
