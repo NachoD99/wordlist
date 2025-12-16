@@ -9,7 +9,7 @@ var words = await source.LoadFileAsync();
 var finder = new WordConcatenationFinder();
 var matches = finder.FindConcatenations(words, targetLength);
 
-foreach (var match in matches)
+foreach (var match in matches.OrderBy(m => m.WholeWord))
 {
     Console.WriteLine($"{match.LeftPart} + {match.RightPart} => {match.WholeWord}");
 }
