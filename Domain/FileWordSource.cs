@@ -23,6 +23,6 @@ public sealed class FileWordSource
             .Select(l => l.ToLowerInvariant())
             .ToArray();
 
-        return words;
+        return words.Distinct().ToArray();
     }
 }
