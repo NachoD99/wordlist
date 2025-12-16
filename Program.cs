@@ -4,7 +4,7 @@ var path = args.Length > 0 ? args[0] : "wordlist.txt";
 var targetLength = 6;
 
 var source = new FileWordSource(path);
-var words = await source.LoadFile();
+var words = await source.LoadFileAsync();
 
 var finder = new WordConcatenationFinder();
 var matches = finder.FindConcatenations(words, targetLength);

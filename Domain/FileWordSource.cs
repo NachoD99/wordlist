@@ -10,7 +10,7 @@ public sealed class FileWordSource
         _path = path;
     }
 
-    public async Task<IReadOnlyCollection<string>> LoadFile()
+    public async Task<IReadOnlyCollection<string>> LoadFileAsync()
     {
         if (!File.Exists(_path))
             throw new FileNotFoundException($"Word list file not found: '{_path}'", _path);
