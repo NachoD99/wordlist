@@ -1,0 +1,15 @@
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\wordlist\word-list\bin\Debug\net8.0\word-list.exe
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\wordlist\word-list\bin\Debug\net8.0\word-list.deps.json
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\wordlist\word-list\bin\Debug\net8.0\word-list.runtimeconfig.json
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\wordlist\word-list\bin\Debug\net8.0\word-list.dll
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\wordlist\word-list\bin\Debug\net8.0\word-list.pdb
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\wordlist\word-list\obj\Debug\net8.0\word-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\wordlist\word-list\obj\Debug\net8.0\word-list.AssemblyInfoInputs.cache
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\wordlist\word-list\obj\Debug\net8.0\word-list.AssemblyInfo.cs
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\wordlist\word-list\obj\Debug\net8.0\word-list.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\wordlist\word-list\obj\Debug\net8.0\word-list.sourcelink.json
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\wordlist\word-list\obj\Debug\net8.0\word-list.dll
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\wordlist\word-list\obj\Debug\net8.0\refint\word-list.dll
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\wordlist\word-list\obj\Debug\net8.0\word-list.pdb
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\wordlist\word-list\obj\Debug\net8.0\word-list.genruntimeconfig.cache
+C:\Users\nacho\Documents\MY WEBPAGES\VERRA TEST\wordlist\word-list\obj\Debug\net8.0\ref\word-list.dll
